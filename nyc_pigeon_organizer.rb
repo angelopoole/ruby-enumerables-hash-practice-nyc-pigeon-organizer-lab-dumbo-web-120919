@@ -20,4 +20,4 @@ def nyc_pigeon_organizer(data)
   new_hash
 end
 
-#how would we shorten this code to be more friendly to the eyes?
+#how would we shorten this code to be more friendly to the eyes and save space?
